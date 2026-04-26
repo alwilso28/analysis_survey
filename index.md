@@ -25,7 +25,7 @@ This bar graph shows that students would prefer to have pre-lecture videos. This
 
 Next, let us see if there is a reason why students would prefer having these pre-lecture videos. We shall check this by looking at the data for how students rate the difficulty of the class.
 
-<img src="static/imgs/difficultvideograph.png" alt="Graph displaying pre-lecture support and course difficulty. "  width="500"/>
+<img src="static/imgs/difficultyvideograph.png" alt="Graph displaying pre-lecture support and course difficulty. "  width="500"/>
 
 This graph compares the course difficulty with the support for pre-lecture videos. Students who rated the course higher in difficulty tend to also give higher ratings for pre-lecture videos. So, we can assume there is a correlation between students who struggle more with the material are more likely to find pre-lecture videos beneficial to their learning.
 
