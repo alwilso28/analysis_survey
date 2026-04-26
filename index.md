@@ -23,6 +23,7 @@ The first question we need to ask is how well students find themselves doing in 
 First, we focus on the pace of the class.
 
 *insert pace linegraph*
+![alt text](image.png)
 
 We see that there is an uneven distribution, where most students rank the class moving at a speed between 4 and 5.
 

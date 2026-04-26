@@ -19,19 +19,19 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EX09 - COMP 110 Survey Analysis
-email: your-email@example.com
+email: alwilso@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/analysis_survey" # the subpath of your site, e.g. /blog
 url: "alwilso28.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  alwilso28
 
 # Build settings
 # Build settings
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-remote-theme
