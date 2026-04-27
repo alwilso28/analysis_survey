@@ -19,19 +19,19 @@ So, for students to get some exposure to these topics beforehand, we hypothesize
 
 First, let us identify whether students would actually prefer to have pre-lecture videos in the first place, similar to how there used to be pre-lecture readings occasionally.
 
-<img src="static/imgs/prelecturegraph.png" alt="Graph displaying support for pre-lecture videos. "  width="500"/>
+<img src="static/imgs/concattedvideos.png" alt="Graph displaying support for pre-lecture videos. "  width="500"/>
 
 This bar graph shows that students would prefer to have pre-lecture videos. This is shown by the high number of ratings between 5-7 (7 being strongly agree), indicating that a majority of students believe pre-lecture videos would be helpful. With this, we can assume there is an overall strong support for adding pre-lecture videos in the future.
 
 Next, let us see if there is a reason why students would prefer having these pre-lecture videos. We shall check this by looking at the data for how students rate the difficulty of the class.
 
-<img src="static/imgs/difficultyvideograph.png" alt="Graph displaying pre-lecture support and course difficulty. "  width="500"/>
+<img src="static/imgs/concattedhistogram.png" alt="Graph displaying pre-lecture support and course difficulty. "  width="500"/>
 
 This graph compares the course difficulty with the support for pre-lecture videos. Students who rated the course higher in difficulty tend to also give higher ratings for pre-lecture videos. So, we can assume there is a correlation between students who struggle more with the material are more likely to find pre-lecture videos beneficial to their learning.
 
 Finally, let us look at how fast students believe the course is progressing, as this might also lead to a higher preference for pre-lecture videos.
 
-<img src="static/imgs/pacevideograph.png" alt="Graph displaying course pace and pre-lecture video support. "  width="500"/>
+<img src="static/imgs/concattedscatter.png" alt="Graph displaying course pace and pre-lecture video support. "  width="500"/>
 
 This chart shows the relationship between course pace and support for pre-lecture videos. There is a pattern where students who rate the course progression as faster tend to give higher ratings for pre-lecture videos. This shows that pre-lecture videos may help students keep up with the material in a faster-paced course.
 
